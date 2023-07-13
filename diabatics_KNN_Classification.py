@@ -22,5 +22,9 @@ print("Testing accuracy: ",accuracy_score(y_test,y_test_pred))
 print("Training Accuracy: ",accuracy_score(y_train,y_train_pred))
 print(classification_report(y_test,y_test_pred))
 
+<<<<<<< HEAD
 # This is the KNN classification File
 # This is the comment for another branch
+=======
+# This is the KNN classification File This is chech the GIT checkout to branch
+>>>>>>> comments_added
