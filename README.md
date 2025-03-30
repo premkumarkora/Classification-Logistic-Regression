@@ -58,7 +58,7 @@
 
 <h2>👤 Author</h2>
 <p>
-  Created by <strong>Prem Kumar Kora</strong>. You can find more projects on <a href="https://github.com/premkumarkora" target="_blank">GitHub</a> or connect on <a href="https://www.linkedin.com/in/premkumarkora" target="_blank">LinkedIn</a>.
+  Created by <strong>Prem Kumar Kora</strong>. You can find more projects on <a href="https://github.com/premkora" target="_blank">GitHub</a> or connect on <a href="https://www.linkedin.com/in/premkumarkora" target="_blank">LinkedIn</a>.
 </p>
 
 <h2>License</h2>
